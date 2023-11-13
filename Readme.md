@@ -4,9 +4,9 @@
 
 > Ensure that the subtitle and video files , along with the application, are placed in the same directory~
 
-![BeforeRun](.\img\beforeRun.png)
+![BeforeRun](./img/beforeRun.png)
 
-![AfterRun](.\img\afterRun.png)
+![AfterRun](./img/afterRun.png)
 
 ## Introduction
 
